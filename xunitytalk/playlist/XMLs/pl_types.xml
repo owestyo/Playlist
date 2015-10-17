@@ -1,0 +1,41 @@
+<poster>[B][COLOR steelblue]X[/COLOR][COLOR gray]UNITY[/COLOR][COLOR steelblue]T[/COLOR][COLOR gray]ALK's[/COLOR][/B] [COLOR white]PLAYLISTS BY CATEGORY / TYPE[/COLOR]</poster>
+<fanart>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/images/xunitytalk%20playlist.png</fanart>
+#
+<info>
+<message>[B][COLOR steelblue]X[/COLOR][COLOR gray]UNITY[/COLOR][COLOR steelblue]T[/COLOR][COLOR gray]ALK's[/COLOR][/B] [COLOR white]PLAYLIST[/COLOR][CR][I]Exclusively from XUNITYTALK.COM! Each section is slowly being filled enjoy![/I]</message>
+<message>[CR]</message>
+<message>[COLOR red][B]PLEASE UPDATE XUNITYTALK REPO FROM :[/B][/COLOR][CR][COLOR white][B]http://xfinity.xunitytalk.com !!![/B][/COLOR][COLOR green][B] - 2nd November 2014[/B][/COLOR]</message>
+<message>[CR]</message>
+</info>
+
+#PLAYLISTS_BY_TYPE#
+#
+<name>[B][COLOR steelblue]MOVIES[/COLOR][/B] [COLOR white]- - - - >[/COLOR]</name>
+<link>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/XMLs/xunitytalk_720_1080.xml</link>
+<thumbnail>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/images/movies2.png</thumbnail>
+#
+<name>[B][COLOR white]TV SHOWS[/COLOR][/B] [COLOR white]- - - - >[/COLOR]</name>
+<link>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/XMLs/xunitytalk_tv.xml</link>
+<thumbnail>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/images/tvshows.png</thumbnail>
+#
+<name>[B][COLOR steelblue]KIDS/CARTOONS[/COLOR][/B] [COLOR white]- - - - >[/COLOR]</name>
+<link>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/PLXs/KIDS_CARTOONS.plx</link>
+<thumbnail>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/images/kidscartoon.png</thumbnail>
+#
+<name>[B][COLOR white]LIVE TV[/COLOR][/B] [COLOR white]- - - - >[/COLOR] </name>
+<link>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/XMLs/xunitytalk_livetv.xml</link>
+<thumbnail>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/images/livetv.png</thumbnail>
+#
+<name>[B][COLOR steelblue]SPORTS[/COLOR][/B] [COLOR white]- - - - >[/COLOR]</name>
+<link>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/XMLs/xunitytalk_sports.xml</link>
+<thumbnail>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/images/sport.png</thumbnail>
+#
+<name>[B][COLOR white]REQUESTS[/COLOR][/B] [COLOR white]- - - - >[/COLOR] Coming Soon</name>
+<link>dummy.file</link>
+<thumbnail>https://raw.githubusercontent.com/MzDiobolik/Playlist/master/xunitytalk/playlist/images/request.png</thumbnail>
+#
+#
+#SEPERATOR#
+<info>
+<message>[B][/B]</message>
+</info>

@@ -1,0 +1,61 @@
+#START
+#
+#
+<poster>[COLOR gray]OTHER [/COLOR]PLAYLISTS</poster>
+<fanart>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/Playlist_BGs/othersbg.png~original</fanart>
+
+
+<directories>
+
+	<name>Crusader88</name>
+	<link>https://raw.github.com/mash2k3/MashUpStreams/master/CrusadersDir.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+	<name>Demon88</name>
+	<link>https://raw.github.com/mash2k3/demon88/master/Demon88_Directory.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+	<name>HackerMil's Movie Stash</name>
+	<link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Directory/HackerMil_Directory.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+	<name>K1M05</name>
+	<link>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05_mashupDirectory.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+	
+	<name>[COLOR white]Kizzer312[/COLOR]</name>
+	<link>http://pastebin.com/raw.php?i=Wg0WK3vQ</link>
+	<thumbnail>dummy</thumbnail>
+	
+	<name>Gioroo's Live TV (Choose XML as Playlist Type)</name>
+	<link>http://gioroo-tv.googlecode.com/svn/trunk/gioroosport-april.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+	<name>MashSports</name>
+	<link>http://is.gd/mashsports</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+	<name>MaxPower!</name>
+	<link>https://raw.githubusercontent.com/mash2k3/MashUpMaxPower/master/maxpow_mashupDirectory.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+	<name>MorePower!</name>
+	<link>https://raw.github.com/mash2k3/MashUpMorePower/master/MorePower_Directory.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+	<name>One242415</name>
+	<link>https://raw2.github.com/mash2k3/One242415/master/One242415_Directory.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+	<name>Staael 1982</name>
+	<link>https://raw.github.com/mash2k3/Staael1982/master/Staael_Directory.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+
+	<name>TNPB</name>
+	<link>https://raw.github.com/mash2k3/MashUpTNPB/master/TNPB_Directory.xml</link>
+	<thumbnail>http://i197.photobucket.com/albums/aa204/mefcreatingnoise/playlist_thumbnails/note.jpg~original</thumbnail>
+	
+</directories>
+#
+#
+#END#
