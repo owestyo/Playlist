@@ -2,10 +2,10 @@
 <thumbnail>http://xtyrepo.me/xunitytalk/icon.png</thumbnail>
 <fanart>http://xtyrepo.me/xunitytalk/fanart.jpg</fanart>
 
-<name>Movies[/COLOR]</name>
-<link>http://xtyrepo.me/xunitytalk/playlist/movies/playlist</link>
+<name>Movies</name>
+<link>http://xtyrepo.me/xunitytalk/playlist/movies/movies.xml</link>
 <thumbnail>https://lh5.googleusercontent.com/-5svGk8XUHPc/VIQF4nkWrlI/AAAAAAAAAMM/YCzfx8x_vKc/s0/topmovie.jpg</thumbnail>
 
 <name>Tv Shows</name>
-<link>http://xtyrepo.me/xunitytalk/playlist/tvshows/movies.xml</link>
+<link>http://xtyrepo.me/xunitytalk/playlist/tvshows/playlist</link>
 <thumbnail>-</thumbnail>
